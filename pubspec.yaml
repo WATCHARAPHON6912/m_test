@@ -41,6 +41,7 @@ dependencies:
   mysql_manager: ^1.1.0
   common_data_table: ^1.0.7
   dropdown_button2: ^2.3.8
+  window_manager: ^0.3.6
 
 dev_dependencies:
   flutter_test:
